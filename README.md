@@ -1,10 +1,4 @@
-## HomeSafe Terms & Privacy Policy
-
-[Link](url) and ![Image](src)
-
-
-
-# **Terms & Privacy Policy**
+# **HomeSafe App Terms & Privacy Policy**
 
 HomeSafe is designed to never collect or store any sensitive information. Data cannot be accessed by us or other third parties because they are always end-to-end encrypted, private, and secure. All data will be wiped off phone every 24 hours to ensure the protection fo your data and it’s safety. Our Terms of Service and Privacy Policy are available below.
 
